@@ -1,0 +1,6 @@
+Download
+1. Visit https://nodejs.dev/en/download/
+2. Download installer according to your OS
+
+Using package manager
+Visit https://nodejs.dev/en/download/package-manager/
